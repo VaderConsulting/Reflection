@@ -21,6 +21,10 @@ VB.NET plugin-host sample. Test App lists `*.dll` next to the exe, loads the sel
 
 Open `Reflection.sln` in Visual Studio 2008 or later. Run Test App with the plugin DLLs in the same folder as the exe.
 
+## Requirements
+
+- Visual Studio 2008, .NET Framework 3.5
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `Reflection`). Assembly company/copyright fields are the Visual Studio Microsoft 2010 defaults.
