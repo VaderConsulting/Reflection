@@ -27,6 +27,8 @@ Open `Reflection.sln` in Visual Studio 2008 or later. Run Test App with the plug
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `Reflection`). Assembly company/copyright fields are the Visual Studio Microsoft 2010 defaults.
 
 ## License
